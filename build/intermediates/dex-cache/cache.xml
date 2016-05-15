@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Greg/AndroidStudioProjects/Loddg/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Greg/AndroidStudioProjects/Loddg/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_06eb84a4bf760495f0b041cdec548b188a26ef87.jar" />
+    </item>
+    <item
+        jar="/Users/Greg/AndroidStudioProjects/Loddg/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Greg/AndroidStudioProjects/Loddg/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_98110b486044498804cb20d72b1a13ff5ed1e694.jar" />
+    </item>
+    <item
+        jar="/Users/Greg/AndroidStudioProjects/Loddg/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Greg/AndroidStudioProjects/Loddg/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_aa25a9198e4bb10a87654f19664dc914f48cd08b.jar" />
+    </item>
+    <item
+        jar="/Users/Greg/AndroidStudioProjects/Loddg/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Greg/AndroidStudioProjects/Loddg/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_8c4b1fa83d78dc7b8bb70df1689bd79df2bc9c38.jar" />
+    </item>
+    <item
+        jar="/Users/Greg/AndroidStudioProjects/Loddg/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Greg/AndroidStudioProjects/Loddg/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_74d5ebfb595e7e1c4ad2db919e796b5bac6a0ef8.jar" />
+    </item>
+    <item
+        jar="/Users/Greg/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Greg/AndroidStudioProjects/Loddg/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_efc965c646072744fddcfecd6666d417e91d68fa.jar" />
+    </item>
+
+</items>
